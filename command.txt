@@ -1,0 +1,4 @@
+1. npm init -y // for installing package.json
+2. npm i --save express // for installing express framework
+3. npm i pg // for database connection 
+
